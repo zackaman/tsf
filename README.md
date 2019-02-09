@@ -1,4 +1,4 @@
-# tsf
+# open tsf
 # SQL
 create database name tsf
 update src/main/resources/application.properties according to your data base
